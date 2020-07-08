@@ -16,4 +16,3 @@ def countdown_with_sleep(n = 5, s = 2)
     n -= 1
   end
 end
-
